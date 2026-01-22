@@ -13,7 +13,11 @@
 <h1>
   hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 </div>
   </div>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Full-stack разработчик из России 🇷🇺</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Просмотры%20профиля&color=0e75b6&style=flat" alt="просмотры профиля" />
+</p>
