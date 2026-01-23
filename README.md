@@ -39,4 +39,4 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/500px-ISO_C%2B%2B_Logo.svg.png" title="cpp"  alt="cpp" width="40" height="40"/>&nbsp;
 </div>
  :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=El1teX
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=El1teX&theme=dark&background=000000)](https://git.io/streak-stats)
