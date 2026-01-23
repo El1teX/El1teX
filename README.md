@@ -40,6 +40,6 @@
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
-   <a href="your-youtube-URL">
+   <a href="https://mail.yandex.ru/?uid=1664759967#compose">
     <img src="https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=yandexemail&logoColor=white" alt="Email Badge"/>
   </a>
