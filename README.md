@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=yandexemail&logoColor=white" alt="Email Badge"/>
   </a>
 <h1>
-  hey there!
+  hi!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
