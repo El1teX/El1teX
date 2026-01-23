@@ -37,9 +37,9 @@
   <a href="https://t.me/exex37">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.reddit.com/user/Whyexex/">
     <img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
-   <a href="https://mail.yandex.ru/?uid=1664759967#compose">
+   <a href="mailto:maximser3da@yandex.ru">
     <img src="https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=yandexemail&logoColor=white" alt="Email Badge"/>
   </a>
