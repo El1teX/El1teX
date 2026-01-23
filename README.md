@@ -38,5 +38,4 @@
        <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/git/git-original.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/500px-ISO_C%2B%2B_Logo.svg.png" title="cpp"  alt="cpp" width="40" height="40"/>&nbsp;
 </div>
- :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=El1teX&theme=dark&background=000000)](https://git.io/streak-stats)
+ :fire: My Stats :[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=el1teX)](https://git.io/streak-stats)
