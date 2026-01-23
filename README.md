@@ -34,8 +34,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/visualstudio/visualstudio-original.svg" title="VisualStudio"  alt="VisualStudio" width="40" height="40"/>&nbsp;
-     <img src="" title=""  alt="" width="40" height="40"/>&nbsp;
-      <img src="" title=""  alt="" width="40" height="40"/>&nbsp;
-       <img src="" title=""  alt="" width="40" height="40"/>&nbsp;
-        <img src="" title=""  alt="" width="40" height="40"/>&nbsp;
+     <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vscode/vscode-original.svg" title="VsCode"  alt="VsCode" width="40" height="40"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/postgresql/postgresql-original.svg" title="Postgres"  alt="Postgres" width="40" height="40"/>&nbsp;
+       <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/git/git-original.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/500px-ISO_C%2B%2B_Logo.svg.png" title="cpp"  alt="cpp" width="40" height="40"/>&nbsp;
 </div>
